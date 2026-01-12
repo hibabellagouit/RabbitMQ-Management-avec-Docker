@@ -110,7 +110,7 @@ docker rm rabbit-server
 ```bash
 docker logs rabbit-server
 ```
+<img width="1162" height="982" alt="Design sans titre (1)" src="https://github.com/user-attachments/assets/7e81703e-b6a2-47cd-862c-02bd8d4cb392" />
+<img width="1920" height="1080" alt="Design sans titre (2)" src="https://github.com/user-attachments/assets/4e46fb02-9714-4de7-a9da-ce667484092d" />
+<img width="1920" height="1080" alt="Design sans titre (3)" src="https://github.com/user-attachments/assets/8cfade95-ae79-42f0-84aa-4eb9848af915" />
 
-## 📚 Ressources
-- [Documentation officielle RabbitMQ](https://www.rabbitmq.com/documentation.html)
-- [Docker Hub - RabbitMQ](https://hub.docker.com/_/rabbitmq/)
